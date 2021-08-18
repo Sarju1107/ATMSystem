@@ -1,0 +1,40 @@
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\atmsystem.Adminform.resources
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\atmsystem.Balanceinq.resources
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\atmsystem.login.resources
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\atmsystem.mainmenu.resources
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\atmsystem.Resources.resources
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\atmsystem.recipt.resources
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\atmsystem.Registration.resources
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\atmsystem.transcrecipt.resources
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\atmsystem.withdraw.resources
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\Atmsystem1.vbproj.GenerateResource.Cache
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\atmsystem.exe
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\atmsystem.xml
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\atmsystem.pdb
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\bin\Debug\atmsystem.exe.config
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\bin\Debug\Database.mdf
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\bin\Debug\Database_log.ldf
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\bin\Debug\atmsystem.exe
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\bin\Debug\atmsystem.pdb
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\bin\Debug\atmsystem.xml
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\atmsystem.Deposite1.resources
+C:\Users\MAYANK PATEL\documents\visual studio 2010\Projects\atmsystem\atmsystem\obj\x86\Debug\atmsystem.Change_Pin.resources
+C:\Smit\atmsystem\atmsystem\bin\Debug\atmsystem.exe.config
+C:\Smit\atmsystem\atmsystem\obj\x86\Debug\atmsystem.exe
+C:\Smit\atmsystem\atmsystem\obj\x86\Debug\atmsystem.xml
+C:\Smit\atmsystem\atmsystem\obj\x86\Debug\atmsystem.pdb
+C:\Smit\atmsystem\atmsystem\bin\Debug\Database.mdf
+C:\Smit\atmsystem\atmsystem\bin\Debug\Database_log.ldf
+C:\Smit\atmsystem\atmsystem\bin\Debug\atmsystem.exe
+C:\Smit\atmsystem\atmsystem\bin\Debug\atmsystem.pdb
+C:\Smit\atmsystem\atmsystem\bin\Debug\atmsystem.xml
+C:\Smit\atmsystem\atmsystem\obj\x86\Debug\atmsystem.Adminform.resources
+C:\Smit\atmsystem\atmsystem\obj\x86\Debug\atmsystem.Change_Pin.resources
+C:\Smit\atmsystem\atmsystem\obj\x86\Debug\atmsystem.Deposite1.resources
+C:\Smit\atmsystem\atmsystem\obj\x86\Debug\atmsystem.login.resources
+C:\Smit\atmsystem\atmsystem\obj\x86\Debug\atmsystem.mainmenu.resources
+C:\Smit\atmsystem\atmsystem\obj\x86\Debug\atmsystem.Resources.resources
+C:\Smit\atmsystem\atmsystem\obj\x86\Debug\atmsystem.Registration.resources
+C:\Smit\atmsystem\atmsystem\obj\x86\Debug\atmsystem.withdraw.resources
+C:\Smit\atmsystem\atmsystem\obj\x86\Debug\Atmsystem1.vbproj.GenerateResource.Cache
+C:\Smit\atmsystem\atmsystem\obj\x86\Debug\Atmsystem1.vbprojResolveAssemblyReference.cache
